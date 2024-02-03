@@ -1,0 +1,2 @@
+# machine_learning_ResNet152
+ResNet152モデルを使った画像識別コード
